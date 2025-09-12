@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saumilsingh&label=Profile%20views&color=0e75b6&style=flat" alt="saumilsingh" /> </p>
 
-<p align="left"> <a href="https://twitter.com/saumil_bisht" target="blank"><img src="https://img.shields.io/twitter/follow/saumil_bisht?logo=twitter&style=for-the-badge" alt="saumil_bisht" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/saumil-singh-bisht-811644298/" target="blank"><img src="https://img.shields.io/twitter/follow/saumil_bisht?logo=twitter&style=for-the-badge" alt="saumil singh bisht" /></a> </p>
 
 - 🌱 I’m currently learning **React Native , Node JS**
 
