@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **coolsaumil123@gmail.com**
 
-- ⚡ Fun fact **My most special talent is to copy and paste code..**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
